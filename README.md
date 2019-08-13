@@ -189,7 +189,7 @@ becomes
 https://yoursite.com/ahoy/messages/rAnDoMtOkEn/click?url=https%3A%2F%2Fchartkick.com&signature=...
 ```
 
-A signature is added to prevent [open redirects](https://www.owasp.org/index.php/Open_redirect).
+A signature is added to prevent [open redirects](https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html#dangerous-url-redirect-example-2).
 
 Skip specific links with:
 
